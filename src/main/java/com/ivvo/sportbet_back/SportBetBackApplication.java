@@ -1,13 +1,13 @@
-package com.ivvo.chess_tournaments_back;
+package com.ivvo.sportbet_back;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChessTournamentsBackApplication {
+public class SportBetBackApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ChessTournamentsBackApplication.class, args);
+		SpringApplication.run(SportBetBackApplication.class, args);
 	}
 
 }

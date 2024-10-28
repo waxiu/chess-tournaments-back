@@ -1,4 +1,4 @@
-package com.ivvo.chess_tournaments_back;
+package com.ivvo.sportbet_back;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
